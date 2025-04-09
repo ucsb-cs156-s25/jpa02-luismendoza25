@@ -2,7 +2,7 @@
 
 Repo: https://github.com/ucsb-cs156-s25/jpa02-luismendoza25.git
 
-Deployed at: https://jpa02-luismendoza.dokku-11.cs.ucsb.edu
+Deployed at: https://jpa02-luismendoza25.dokku-11.cs.ucsb.edu
 
 # About this repo
 
